@@ -8,9 +8,6 @@ justify-content: center;
 align-items: center;
 
 `;
-export const Img = styled.View`
-
-`;
 
 export const New = styled.Text`
 font-size: 30px;
@@ -18,6 +15,7 @@ font-weight: bold;
 margin-top: -10px;
 color: white;
 padding: 0;
+
 
 `;
 

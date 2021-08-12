@@ -13,11 +13,29 @@ margin-top: 100px;
 export const SecondContainer = styled.View`
 display: flex;
 flex-direction: row;
-justify-content: space-around;
+justify-content: space-space-between;
+
 
 `;
-export const Imgs = styled.View`
+
+export const ImgContainer1 = styled.View`
+height: 256px;
+`;
+
+export const ImgContain2 = styled.View`
 height: 256px;
 
+`;
+export const ButtonShopNow = styled.View`
+height: 150px;
+width: 150px;
+margin-top: -110px;
+margin-left: 40px;
+padding: 10px;
+`;
+
+export const Viewer = styled.Text`
+opacity: 0.5;
 
 `;
+
