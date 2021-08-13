@@ -1,6 +1,6 @@
 import React from  'react';
-import { Container } from './stryles';
-import { Image, StyleSheet } from 'react-native';
+import { Container, Line } from './styles';
+import { Image, Text, StyleSheet } from 'react-native';
 
 
 
@@ -8,11 +8,13 @@ import { Image, StyleSheet } from 'react-native';
 
 export function Menu () {
     return (
-        <>
+    
         <Container>
-            <Image  style={styles.home}  source={require('../../../assets/icon_home.svg')} />
+            <Text>Encontre uma loja</Text>
+            <Line />
+            <Text>Fale com um vendedor</Text>
         </Container>
-        </>
+        
 
     );
 }
