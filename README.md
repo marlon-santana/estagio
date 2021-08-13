@@ -15,4 +15,4 @@ para rodar a aplicação, escolha a opção run in web browser em seguida
 ctrl + shift + m  para deixar a tela responsiva para celular.
 
 
-<img src="./asets/screen1.png" />
+<img textalign="center" src="./assets/screen1.png"></img>
