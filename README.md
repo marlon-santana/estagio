@@ -4,7 +4,7 @@ No terminal digitar  npm install -g create-react-native-app
 
 Em seguida digitar npm install --global expo-cli e
 
-depois digitar npm install expo para instalar..
+depois digitar npm install expo para instalar.
 
 Deve ser digitado com o caminho da pasta contendo o projeto. 
 Digitar o comando expo start no terminal, ele irá criar um servidor local.
