@@ -14,14 +14,14 @@ Tive problemas com Hardware e não consegui usar o emulador do expo então decid
 para rodar a aplicação, escolha a opção run in web browser em seguida
 ctrl + shift + m  para deixar a tela responsiva para celular.
 
-<div>
+
   <img textalign="center" src="./assets/screen1.png"></img>
-</div>
-<div>
+
+
   <img textalign="center" src="./assets/screen2.png"></img>
-</div>
-<div>
+
+
   <img textalign="center" src="./assets/screen3.png"></img>
-</div>
+
 
 
