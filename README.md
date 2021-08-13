@@ -16,3 +16,5 @@ ctrl + shift + m  para deixar a tela responsiva para celular.
 
 
 <img textalign="center" src="./assets/screen1.png"></img>
+<img textalign="center" src="./assets/screen2.png"></img>
+<img textalign="center" src="./assets/screen3.png"></img>
